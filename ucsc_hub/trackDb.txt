@@ -1,0 +1,55 @@
+track Anti_SMAD_1
+bigDataUrl https://raw.githubusercontent.com/eglehervin/SMAD_ChIPseq_hub/main/bigwig/Anti_SMAD_1.bw
+shortLabel Anti_SMAD_1
+longLabel Anti_SMAD_1 ChIP-seq
+type bigWig
+visibility full
+color 255,0,0
+
+track Anti_SMAD_2
+bigDataUrl https://raw.githubusercontent.com/eglehervin/SMAD_ChIPseq_hub/main/bigwig/Anti_SMAD_2.bw
+shortLabel Anti_SMAD_2
+longLabel Anti_SMAD_2 ChIP-seq
+type bigWig
+visibility full
+color 0,255,0
+
+track Anti_SMAD_3
+bigDataUrl https://raw.githubusercontent.com/eglehervin/SMAD_ChIPseq_hub/main/bigwig/Anti_SMAD_3.bw
+shortLabel Anti_SMAD_3
+longLabel Anti_SMAD_3 ChIP-seq
+type bigWig
+visibility full
+color 0,0,255
+
+track SMAD_IgG_1
+bigDataUrl https://raw.githubusercontent.com/eglehervin/SMAD_ChIPseq_hub/main/bigwig/SMAD_IgG_1.bw
+shortLabel SMAD_IgG_1
+longLabel SMAD_IgG_1 ChIP-seq control
+type bigWig
+visibility full
+color 255,0,255
+
+track SMAD_IgG_2
+bigDataUrl https://raw.githubusercontent.com/eglehervin/SMAD_ChIPseq_hub/main/bigwig/SMAD_IgG_2.bw
+shortLabel SMAD_IgG_2
+longLabel SMAD_IgG_2 ChIP-seq control
+type bigWig
+visibility full
+color 0,255,255
+
+track SMAD_IgG_3
+bigDataUrl https://raw.githubusercontent.com/eglehervin/SMAD_ChIPseq_hub/main/bigwig/SMAD_IgG_3.bw
+shortLabel SMAD_IgG_3
+longLabel SMAD_IgG_3 ChIP-seq control
+type bigWig
+visibility full
+color 255,255,0
+
+track SMAD_input
+bigDataUrl https://raw.githubusercontent.com/eglehervin/SMAD_ChIPseq_hub/main/bigwig/SMAD_input.bw
+shortLabel SMAD_input
+longLabel SMAD_input ChIP-seq input control
+type bigWig
+visibility full
+color 128,128,128
