@@ -1,0 +1,62 @@
+track Anti_SMAD_1
+bigDataUrl ../output/bigwig/Anti_SMAD_1.bw
+shortLabel Anti_SMAD 1
+longLabel ChIP-seq Anti-SMAD Replicate 1
+type bigWig
+visibility full
+autoScale on
+color 255,0,0
+
+track Anti_SMAD_2
+bigDataUrl ../output/bigwig/Anti_SMAD_2.bw
+shortLabel Anti_SMAD 2
+longLabel ChIP-seq Anti-SMAD Replicate 2
+type bigWig
+visibility full
+autoScale on
+color 200,0,0
+
+track Anti_SMAD_3
+bigDataUrl ../output/bigwig/Anti_SMAD_3.bw
+shortLabel Anti_SMAD 3
+longLabel ChIP-seq Anti-SMAD Replicate 3
+type bigWig
+visibility full
+autoScale on
+color 150,0,0
+
+track SMAD_IgG
+bigDataUrl ../output/bigwig/SMAD_IgG_1.bw
+shortLabel IgG 1
+longLabel IgG control Replicate 1
+type bigWig
+visibility full
+autoScale on
+color 0,0,255
+
+track SMAD_IgG2
+bigDataUrl ../output/bigwig/SMAD_IgG_2.bw
+shortLabel IgG 2
+longLabel IgG control Replicate 2
+type bigWig
+visibility full
+autoScale on
+color 0,100,255
+
+track SMAD_IgG3
+bigDataUrl ../output/bigwig/SMAD_IgG_3.bw
+shortLabel IgG 3
+longLabel IgG control Replicate 3
+type bigWig
+visibility full
+autoScale on
+color 100,150,255
+
+track SMAD_input
+bigDataUrl ../output/bigwig/SMAD_input.bw
+shortLabel Input
+longLabel Input control
+type bigWig
+visibility full
+autoScale on
+color 0,150,0

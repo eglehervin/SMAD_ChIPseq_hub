@@ -1,0 +1,5 @@
+hub SMAD_ChIPseq
+shortLabel SMAD ChIP-seq
+longLabel SMAD ChIP-seq in PDAC (ChIP vs IgG/Input)
+genomesFile genomes.txt
+email egleheleneervin@gmail.com
