@@ -1,5 +1,5 @@
 track Anti_SMAD_1
-bigDataUrl https://raw.githubusercontent.com/eglehervin/SMAD_ChIPseq_hub/main/bigwig/Anti_SMAD_1.bw
+bigDataUrl https://github.com/eglehervin/SMAD_ChIPseq_hub/raw/refs/heads/main/bigwig/Anti_SMAD_1.bw
 shortLabel Anti_SMAD_1
 longLabel Anti_SMAD_1 ChIP-seq
 type bigWig
